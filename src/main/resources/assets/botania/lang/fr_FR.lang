@@ -2962,26 +2962,26 @@ botania.page.blazeBlock1=0x1a4
 
 # -- CHALLENGES
 botania.entry.challenges=Challenges
-botania.page.challenges0=&1Challenges&0 are available in the &1Lexica Botania&0 by clicking the icon in the right of the landing page shaped like a cup. These, as the name says, challenge the player to create a mechanism using the features only available in &1Botania&0 and &1Minecraft&0 itself.<br>Of course, you can use items from other mods to complete them, but that's no fun.
-botania.page.challenges1=All of the challenges are possible, of course. They just require some thinking and knowledge of the ins and outs of redstone and the &1Botania&0 mechanics themselves.<br>It's highly recommended that they're done without using features from external mods, as they have been created with that in mind, and aren't really challenges if you put down a block that solves them instantly.
-botania.page.challenges2=The challenges aren't obligatory in any way, and do not provide any material reward. They're purely suggestions as to what &1Botania&0 can do, automation wise, and are but scratching the surface of that topic. Challenges need be marked completed manually.<br>It should be kept in mind that the boundaries of this world are one's imagination, so don't stop at the ideas in there!
+botania.page.challenges0=Les &1Challenges&0 sont disponibles dans le &1Lexica Botania&0 en cliquant sur l'icone en forme de coupe. Ces derniers, comme leur nom l'indique, défie le joueur à créer un mécanisme utilisant les possibilités fournies uniquement par &1Botania&0 et &1Minecraft&0.<br>Bon, vous pouvez évidemment utiliser les objets d'autres mods, mais quel intérêt?
+botania.page.challenges1=Tous les challenges sont réalisables. Ils nécessite seulement un peut de réflexion et de connaissances sur la redstone ainsi que le mécaniques de &1Botania&0.<br>Il est fortement recommendé de les réaliser sans utiliser les possibilités d'autres mods, car ces challenges n'en sont plus s'ils peuvent être réalisés trop aisément.
+botania.page.challenges2=Il n'y a aucun ordre particulier pour les défis, et ces derniers n'aboutissent sur aucune récompense matérielle. Ils sont uniquement des suggestions sur ce qu'on peut réaliser en matière d'automatisation avec &1Botania&0. Les défis doivent être notés comme réalisés manuellement.<br>Gardez en tête que les seules limites de ce monde sont votre imagination, donc ne vous arrêtez pas seulement à ces quelques suggestions!
 
 # -- CACOPHONIUM
 botania.entry.cacophonium=Cacophonium
-botania.page.cacophonium0=This interesting instrument, the &1Cacophonium&0, has the ability to mimic almost every living being's cries in nature, allowing for the "musician" to play them at will. Right clicking with it on an entity has the instrument learn its sound. It can then be played by holding right click.<br>Why anyone would ever want to make this, however, is beyond moral comprehension.
+botania.page.cacophonium0=Cet instrument intéressant, nommé &1Cacophonium&0, a la possibilité d'imiter presque tous les sons d'être vivants, permettant au "musicien" de les jouer à souhait. Un clic-droit avec le Cacophonium sur une entité va lui permettre d'apprendre les sons de cette dernière. Ces sons pourront être joués en maintenant le clic-droit. <br>Mais quel être censé voudrait faire ceci, cela dépasse ma compréhension.
 botania.page.cacophonium1=Hibike! Cacophonium
 
 # -- THAUMCRAFT INTEGRATION
-botania.entry.tcIntegration=Thaumcraft Integration
-botania.page.tcIntegration0=Often enough, the paths of &4Botany&0 and &4Thaumaturgy&0 cross together. Mixing some of the artifacts mentioned in this book as well as any from the school of &5Thaumcraft&0 can allow for combinations of these to form.
-botania.page.tcIntegration1=First and foremost, combining any of the &1Mana Metal&0 helms with a set of &1Goggles of Revealing&0 allows for a combination of both.<br>The protection and regenerability of the armor works alongside the Goggles' abilities, but the &4Vis&0 discount is lost. 
-botania.page.tcIntegration2=Helmets of Revealing (works with any Botania helm)
-botania.page.tcIntegration3=Carrying on, &4Mana&0 can also serve as an interesting type of Ink. Infusing a set of black &1Scribing Tools&0 with &4Mana&0 from a &1Mana Pool&0 allows for them to use said &4Mana&0 as their source of color.<br>Refilling these tools works similarly to a &1Mana Tablet&0, done by tossing it on top of the pool. It's to note that the tools do not come pre-filled.
-botania.page.tcIntegration4=Making the &1Botanurgist's Inkwell
-botania.page.tcIntegration5=Next off, there's a few varied resources or constructs that can work as paraphernalia for an &1Infusion Altar&0, to lower its' instability, these come in the form of &1Fleur chatoyante Flowers, Fleur flottante Flowers and any variety of Pylons&0.<br>Lastly, a special &4Brew&0 can be put together using typical thaumaturgic resources in order to apply a &4Warp Ward&0 effect.
-botania.page.tcIntegration6a=Perhaps insanity might not be the greatest tool in all of occasions. For those cases, a nice bath generally takes care of it. A brew might be a better format for such a task, though...
-botania.page.tcIntegration6b=The official frowny face
+botania.entry.tcIntegration=Intégration de Thaumcraft
+botania.page.tcIntegration0=Régulièrement, les chemins de &4Botany&0 et &4Thaumaturgy&0 se croisent. Mélanger quelques artéfacts mentionnés dans ce livre ainsi que ceux de l'école de &5Thaumcraft&0 peut permettre la combinaison de ces deux écoles.
+botania.page.tcIntegration1=Tout d'abord, combiner n'importe quel casque en &1Mana Metal&0 avec une paire de &1Goggles of Revealing&0 permet une combinaison des deux éléments.<br>La protection et régénérabilité des armures fonctionnent avec les lunettes, mais la réduction de &4Vis&0 ne fonctionne plus. 
+botania.page.tcIntegration2=Casques de Révélation (fonctionnent avec tous les casques de Botania)
+botania.page.tcIntegration3=De plus, la &4Mana&0 peut être utilisée comme une type d'encre très intéressante. Infuser un set de &1Scribing Tools&0 noirs avec de la &4Mana&0 dans une &1Mana Pool&0 var leur permettre d'utiliser de la &4Mana&0 comme colorant.<br>Remplir ces outils fonctionne de la même manière qu'une &1Mana Tablet&0, en les jetant sur une pool de mana. Il est important de noter que ces outils ne sont pas initialement remplis.
+botania.page.tcIntegration4=Réaliser l'encrier de &1Botanurgiste
+botania.page.tcIntegration5=Ensuite, il y a quelques resources ou outils pouvant faire office de réducteurs d'instabilité pour un &1Infusion Altar&0. Ces outils sont les &1Fleur chatoyante, Fleur flottante and toute sorte de Pylons&0.<br>Finalement, une &4infusion&0 spéciale peut être réalisée en utilisant des resources de thaumaturgie afin d'appliquer un effet &4Warp Ward&0.
+botania.page.tcIntegration6a= La folie n'est certainement pas le meilleur outil en toutes occasions. Dans ce cas, un bon bain peut généralement la soigner. Cependant, une infusion est peut être une meilleure solution ...
+botania.page.tcIntegration6b=La Frowny face officielle
 
 # -- BUILDCRAFT INTEGRATION
-botania.entry.bcIntegration=Buildcraft Integration
-botania.page.bcIntegration0=Recent advances in piping technology have allowed &1Gates&0 to get a feel of the &4Mana&0 around them. A &1Gate&0 can now sense whether a &4Mana&0 container is empty, full or if it contains any mana.<br>&1Gates&0 can also use the &1Mana Detector&0 trigger to detect if a mana is passing by the pipe block. In addition, they can also sense when a &1Runic Altar&0 is ready to create runes.
+botania.entry.bcIntegration=Intégration de Buildcraft
+botania.page.bcIntegration0=Des avancées récentes dans le transport de fluides permettent aux &1Gates&0 de ressentir la &4Mana&0 autour d'elles. Une &1Gate&0 peut maintenant savoir sur un conteneur de &4Mana&0 est vide, ou s'il contient de la mana.<br>Les &1Gates&0 peuvent également utiliser un &1Mana Detector&0 afin de vérifier si de la mana est dans un tuyau. De plus, elles peuvent également vérifier si un &1Runic Altar&0 est prêt à créer de nouvelles rune.
